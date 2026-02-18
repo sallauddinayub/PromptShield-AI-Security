@@ -33,6 +33,3 @@ PromptShield/
 └── README.md
 ```
 
-## Resume Description
-**PromptShield — LLM Prompt Injection Detection System**  
-Developed a secure AI chatbot with a defensive filtering layer to detect and block prompt injection attacks. Implemented role-manipulation detection, sensitive keyword analysis, and jailbreak pattern recognition before model inference, with logging and alerting for malicious prompts.
